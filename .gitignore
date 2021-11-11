@@ -1,0 +1,24 @@
+# Compiled/cached Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporaries
+.ipynb_checkpoints/
+*.swp
+
+# Outputs
+*.eps
+*.out
+
+# Model and other pannuke
+*.pth
+*.npy
+.idea
+*.pkl
+*.DS_Store
+.pytest_cache/
+*.pyc
+
+# Ignore pdfs directory
+annotated/
